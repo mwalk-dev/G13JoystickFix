@@ -16,7 +16,7 @@
     </Window.Resources>
     
     <StackPanel Margin="10">
-        <tb:TaskbarIcon Name="NotifyIcon" ToolTipText="Hello world" PopupActivation="RightClick" ContextMenu="{StaticResource IconContextMenu}" />
+        <tb:TaskbarIcon Name="NotifyIcon" ToolTipText="G13 Joystick Fix" PopupActivation="RightClick" ContextMenu="{StaticResource IconContextMenu}" IconSource="icon.ico" />
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition />
