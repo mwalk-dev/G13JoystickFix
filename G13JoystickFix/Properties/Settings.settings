@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="G13JoystickFix.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UpInput" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">W</Value>
+    </Setting>
+    <Setting Name="LeftInput" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+    <Setting Name="DownInput" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">S</Value>
+    </Setting>
+    <Setting Name="RightInput" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">D</Value>
+    </Setting>
+    <Setting Name="XAxisDeadzone" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="YAxisDeadzone" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FourWayInput" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
